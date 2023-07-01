@@ -1,0 +1,36 @@
+What is the Selenium?
+
+It is an open source automation testing tool/ Framework/ Set of Libraries/ Project/ Api for web Based
+application Testing only
+
+Web Based application -Selenium (90% market working on selenium many big organisation working
+like google, facebook), QTP/ UFT -Mercury, HP, Waiter
+Desktop based -QTP -(VB Script, $2000 to $4000 per useer )
+Database application - Sql, MySQL, Hadoop
+Mobile application -Robotium, Calabash, Appium.
+Web services -(REST/ SOAP) - Postman, SOAP UI, Rest Assured,
+
+Selenium Features
+Multi browser support - IE, Chrome, FF, Safari, Opera etc.
+Multi language support - Java .jar, C# dll, Ruby gem, Python .PHP, JS etc
+Multi OS/Platform Support - Win, Linux, mac, solaris, ios, android etc.
+
+Selenium -2004 Developer name - Jason Huggins - Thoughtwork.
+
+Has 4 Component - IDE, RC, WebDriver, GRID
+Selenium 1.0 - IDE + RC + GRID1
+Selenium 2.0 - WebDriver + RC - 2.51.1 Was last version + Grid2
+Selenium 3.0 - 3.141.59 - WebDriver + W3C Spec. Recommendation + Grid 3
+Selenium 4.0 - 4.6.0 - WebDriver + W3C Spec. Recommendation + Grid4
+
+Introduction https://www.selenium.dev/
+
+What is an API?
+
+Selenium we can use only - 25% in our Project.
+Core Java - Environment Variable.
+Intellij IDea.
+Maven / ANT/ Gradle - Build Tools
+JUnit / TestNG - Java Testing Framework
+Extent Report
+CI - Jenkins
