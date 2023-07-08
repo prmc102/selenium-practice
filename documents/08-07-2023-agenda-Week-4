@@ -1,0 +1,32 @@
+Today's Agenda 08-07-2023
+1. JavaScriptExecutor (Interface, How to execute js functions)
+    1.1 executeScript()
+
+2. Action Class (How to perform  Mouse Operations in Selenium WebDriver?)
+    2.1 Mouse Hover -MoveToElement
+    2.2 Right Click
+    2.3 Drag And Drop
+    2.4 Slider
+    2.5 Key Board Events
+
+3. Selenium Waits
+    3.1 Implicitly Wait
+    3.2 Explicit Wait
+    3.3 Fluent Wait
+
+4. Maven - Introduction
+5. Automation Framework
+6. TestNg Introduction
+7. Page Object Model
+	7.1 Create Maven Project
+	7.2 Add all dependency (selenium-java, testng, commons-io)
+	7.3 Creating packages
+	    browserfactory - ManageBrowser
+		pages
+		propertyreader - PropertyReader
+		utility - Utility
+		testbase - BaseTest
+		testng - TestNgIndroduction
+		testsuite - LoginPageTest
+		resources - propertiesfile - config.properties
+

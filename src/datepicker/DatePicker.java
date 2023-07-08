@@ -32,7 +32,7 @@ public class DatePicker extends Utility {
             String monthYear = driver.findElement(By.xpath("//div[@class='DayNavigator__CalendarHeader-qj8jdz-1 fxvMrr']//div[2]")).getText();
             String[] a = monthYear.split(" ");
             String mon = a[0];
-            String yer = a[1].split("\n")[0];
+            String yer = a[1].split("\n")[0]; // 2023\n1
             if (mon.equalsIgnoreCase(month) && yer.equalsIgnoreCase(year)) {
                 break;
             } else {
